@@ -1,0 +1,12 @@
+room_id,room_name,created_by,created_date,room_type,total_pool,active_status,room_code
+ROOM0001,Group Inverstment,U001,2025-10-12 08:15:36,Investment,1000.0,Active,
+ROOM0002,Group Inverstment,U001,2025-10-12 08:22:49,Investment,0.0,Active,314513.0
+ROOM0003,Group Inverstment,U001,2025-10-12 08:22:55,Investment,0.0,Active,833734.0
+ROOM0004,Group Inverstment,U001,2025-10-12 08:23:01,Investment,0.0,Active,771484.0
+ROOM0005,Group Inverstment,U001,2025-10-12 08:23:05,Investment,0.0,Active,156557.0
+ROOM0006,Group Inverstment,U001,2025-10-12 08:23:08,Investment,0.0,Active,979381.0
+ROOM0007,Group Inverstment,U001,2025-10-12 08:23:38,Investment,0.0,Active,632770.0
+ROOM0008,Group Inverstment,U001,2025-10-12 08:24:26,Investment,0.0,Active,951327.0
+ROOM0009,Group Inverstment,U001,2025-10-12 08:24:54,Investment,0.0,Active,691752.0
+ROOM0010,Group Inverstment,U001,2025-10-12 08:25:00,Investment,0.0,Active,421074.0
+ROOM0011,hi,U002,2025-10-12 08:36:30,Investment,1000.0,Active,109684

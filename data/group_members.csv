@@ -1,0 +1,11 @@
+room_id,user_id,user_name,join_date,role
+ROOM0002,U001,Priya Sharma,2025-10-12 08:22:49,creator
+ROOM0003,U001,Priya Sharma,2025-10-12 08:22:55,creator
+ROOM0004,U001,Priya Sharma,2025-10-12 08:23:01,creator
+ROOM0005,U001,Priya Sharma,2025-10-12 08:23:05,creator
+ROOM0006,U001,Priya Sharma,2025-10-12 08:23:08,creator
+ROOM0007,U001,Priya Sharma,2025-10-12 08:23:38,creator
+ROOM0008,U001,Priya Sharma,2025-10-12 08:24:26,creator
+ROOM0009,U001,Priya Sharma,2025-10-12 08:24:54,creator
+ROOM0010,U001,Priya Sharma,2025-10-12 08:25:00,creator
+ROOM0011,U002,Rahul Verma,2025-10-12 08:36:30,creator

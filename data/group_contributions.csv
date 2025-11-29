@@ -1,0 +1,3 @@
+contribution_id,room_id,user_id,amount_contributed,contribution_percentage,join_date,current_balance
+CONT000001,ROOM0001,U001,1000,100.0,2025-10-12 08:15:36,1000
+CONT000002,ROOM0011,U002,1000,100.0,2025-10-12 08:36:30,1000

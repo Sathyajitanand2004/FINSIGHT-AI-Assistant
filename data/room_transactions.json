@@ -1,0 +1,76 @@
+{
+  "Travel Plan": {
+    "U001": [
+      {
+        "timestamp": "2025-10-12 11:55:37",
+        "type": "expense",
+        "description": "cab",
+        "total_amount": 1000.0,
+        "your_share": 260.8695652173913,
+        "percentage": 26.08695652173913
+      }
+    ],
+    "U003": [
+      {
+        "timestamp": "2025-10-12 11:55:37",
+        "type": "expense",
+        "description": "cab",
+        "total_amount": 1000.0,
+        "your_share": 304.34782608695656,
+        "percentage": 30.434782608695656
+      }
+    ],
+    "U002": [
+      {
+        "timestamp": "2025-10-12 11:55:37",
+        "type": "expense",
+        "description": "cab",
+        "total_amount": 1000.0,
+        "your_share": 434.7826086956522,
+        "percentage": 43.47826086956522
+      }
+    ]
+  },
+  "Group Investment": {
+    "U001": [
+      {
+        "timestamp": "2025-10-12 12:31:58",
+        "type": "profit",
+        "description": "ROI",
+        "total_amount": 30000.0,
+        "your_share": 1022.7272727272726,
+        "percentage": 3.4090909090909087
+      }
+    ],
+    "U002": [
+      {
+        "timestamp": "2025-10-12 12:31:58",
+        "type": "profit",
+        "description": "ROI",
+        "total_amount": 30000.0,
+        "your_share": 12784.09090909091,
+        "percentage": 42.61363636363637
+      }
+    ],
+    "U003": [
+      {
+        "timestamp": "2025-10-12 12:31:58",
+        "type": "profit",
+        "description": "ROI",
+        "total_amount": 30000.0,
+        "your_share": 9375.0,
+        "percentage": 31.25
+      }
+    ],
+    "U004": [
+      {
+        "timestamp": "2025-10-12 12:31:58",
+        "type": "profit",
+        "description": "ROI",
+        "total_amount": 30000.0,
+        "your_share": 6818.181818181818,
+        "percentage": 22.727272727272727
+      }
+    ]
+  }
+}

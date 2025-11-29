@@ -1,0 +1,4 @@
+message_id,room_id,user_id,message,timestamp,user_name,message_type
+MSG00000001,ROOM0001,U001,🎉 Room created by Priya Sharma,2025-10-12 08:15:36,,
+MSG00000002,ROOM0011,U002,🎉 Rahul Verma created the room,2025-10-12 08:36:30,Rahul Verma,system
+MSG00000003,ROOM0011,U002,hi,2025-10-12 08:38:44,Rahul Verma,chat

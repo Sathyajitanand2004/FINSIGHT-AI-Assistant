@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+python-dotenv
+langchain
+langchain-core
+langchain-groq
+langgraph
+joblib
+python-dateutil
+typing_extensions

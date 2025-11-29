@@ -1,0 +1,6 @@
+user_id,name,monthly_salary,savings_rate,spending_personality,risk_tolerance
+U001,Priya Sharma,55000,0.25,balanced,medium
+U002,Rahul Verma,48000,0.15,impulsive,low
+U003,Anjali Desai,72000,0.35,frugal,high
+U004,Vikram Singh,60000,0.2,moderate,medium
+U005,Neha Kapoor,85000,0.3,balanced,high

@@ -1,0 +1,40 @@
+{
+  "Group Investment": {
+    "members": {
+      "U001": {
+        "name": "Priya Sharma",
+        "contribution": 1200.0
+      },
+      "U002": {
+        "name": "Rahul Verma",
+        "contribution": 15000.0
+      },
+      "U003": {
+        "name": "Anjali Desai",
+        "contribution": 11000.0
+      },
+      "U004": {
+        "name": "Vikram Singh",
+        "contribution": 8000.0
+      }
+    },
+    "total_pool": 35200.0
+  },
+  "Travel Plan": {
+    "members": {
+      "U001": {
+        "name": "Priya Sharma",
+        "contribution": 120.0
+      },
+      "U003": {
+        "name": "Anjali Desai",
+        "contribution": 140.0
+      },
+      "U002": {
+        "name": "Rahul Verma",
+        "contribution": 200.0
+      }
+    },
+    "total_pool": 460.0
+  }
+}

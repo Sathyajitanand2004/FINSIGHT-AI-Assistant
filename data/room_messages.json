@@ -1,0 +1,72 @@
+{
+  "Travel Plan": [
+    {
+      "user_id": "system",
+      "name": "System",
+      "message": "\ud83c\udf89 Priya Sharma joined the room!",
+      "timestamp": "2025-10-12 11:54:16"
+    },
+    {
+      "user_id": "system",
+      "name": "System",
+      "message": "\ud83c\udf89 Anjali Desai joined the room!",
+      "timestamp": "2025-10-12 11:54:35"
+    },
+    {
+      "user_id": "system",
+      "name": "System",
+      "message": "\ud83c\udf89 Rahul Verma joined the room!",
+      "timestamp": "2025-10-12 11:54:53"
+    },
+    {
+      "user_id": "U002",
+      "name": "Rahul Verma",
+      "message": "hi",
+      "timestamp": "2025-10-12 11:55:04"
+    },
+    {
+      "user_id": "system",
+      "name": "System",
+      "message": "\ud83d\udcb3 Anjali Desai split an expense: cab (\u20b91,000.00)",
+      "timestamp": "2025-10-12 11:55:37"
+    }
+  ],
+  "Group Investment": [
+    {
+      "user_id": "system",
+      "name": "System",
+      "message": "\ud83c\udf89 Priya Sharma joined the room!",
+      "timestamp": "2025-10-12 12:29:13"
+    },
+    {
+      "user_id": "system",
+      "name": "System",
+      "message": "\ud83c\udf89 Rahul Verma joined the room!",
+      "timestamp": "2025-10-12 12:29:27"
+    },
+    {
+      "user_id": "system",
+      "name": "System",
+      "message": "\ud83c\udf89 Anjali Desai joined the room!",
+      "timestamp": "2025-10-12 12:29:43"
+    },
+    {
+      "user_id": "system",
+      "name": "System",
+      "message": "\ud83c\udf89 Vikram Singh joined the room!",
+      "timestamp": "2025-10-12 12:29:55"
+    },
+    {
+      "user_id": "U001",
+      "name": "Priya Sharma",
+      "message": "hi",
+      "timestamp": "2025-10-12 12:30:16"
+    },
+    {
+      "user_id": "system",
+      "name": "System",
+      "message": "\ud83d\udcb0 Priya Sharma shared a profit: ROI (\u20b930,000.00)",
+      "timestamp": "2025-10-12 12:31:58"
+    }
+  ]
+}
