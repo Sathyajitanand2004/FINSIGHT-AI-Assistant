@@ -142,7 +142,7 @@ A conversational LLM-powered assistant that:
 ---
 
 ###  5. **FairSplit – Collaborative Group Expense Manager**
-A public shared “undi” room where:
+A public shared “Wallet” room where:
 - Participants add money  
 - Split expenses fairly  
 - Chat & collaborate  
